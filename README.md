@@ -3,11 +3,11 @@ For Placement
 
 I have implemented the following
 
-1. A main notekeeper titled notemaker where you simply add notes and look at them
-2. The admin, which can see basically everything, needs mysql password which I have set for spefic user (me)
+1. A **main notekeeper titled notemaker** where you simply add notes and look at them
+2. The **admin**, which can see basically everything, needs mysql password which I have set for spefic user (me)
 
-3. A registration page which does all sorts of checking if user name is already registered, password is upto standard etc
-4. A login page which logs in if the user is registered, redirects to notemaker
+3. A **registration page** which does all sorts of checking if user name is already registered, password is upto standard etc
+4. A **login page** which logs in if the user is registered, redirects to notemaker
 
 Note:
 The links are not interconnected in an IDEAL way, but the app does what it is required
