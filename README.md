@@ -19,4 +19,4 @@ I do not plan to do UI/UX round, however I do have the basic knowledge of requir
 ## SPECIAL NOTE 
 I have no previous experience working with Django, I have learned it in just past 2 days and done this API
 
-I have knowledge of .NET framework with asp pages and C#, I have done a project in it and also mentioned it in my resume. Project was deployed successfuly by Adani Electricity
+I have knowledge of .NET framework with asp pages and C#, I have done a project in it and also mentioned it in my resume. Project was deployed successfuly by *Adani Electricity*
